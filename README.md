@@ -30,7 +30,7 @@ I'm a Front End Web Developer who is passionate about making error-free websites
 
 ## My Learning 🚀
 - 🔭 I’m currently working on My Project 
-- 🌱 I’m currently learning JavaScript, React, Node.js, Next.js, MongoDB, Express.js, Better-auth, Node.js 
+- 🌱 I’m currently learning TypeScript, Express.js
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
